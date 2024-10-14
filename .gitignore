@@ -1,8 +1,5 @@
-# Ignore virtual environments
-env/
-venv/
-
-# Ignore Python cache and bytecode files
+merge-env/
 __pycache__/
 *.pyc
-*.pyo
+.DS_Store
+Thumbs.db
