@@ -1,5 +1,16 @@
 merge-env/
+# Ignore virtual environments
+env/
+venv/
+
+# Ignore Python cache and compiled files
 __pycache__/
 *.pyc
+*.pyo
+
+# Ignore system files
 .DS_Store
 Thumbs.db
+
+# Ignore VS Code settings and extensions
+.vscode/
