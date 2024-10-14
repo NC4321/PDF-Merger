@@ -1,0 +1,2 @@
+PyPDF2==3.0.1
+screeninfo==0.8.1
